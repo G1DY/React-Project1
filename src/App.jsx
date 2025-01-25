@@ -1,9 +1,9 @@
 import React from 'react'
-import Todo from './Components/Todo'
+import Meals from './Components/Meals'
 
 const App = () => {
   return (
-    <Todo/>
+    <Meals/>
   )
 }
 
