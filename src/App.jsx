@@ -1,9 +1,9 @@
 import React from 'react'
-import ToggleBackgroundColor from './Components/ToggleBackgroundColor'
+import HiddenSearchBar from './Components/HiddenSearchBar'
 
 const App = () => {
   return (
-    <ToggleBackgroundColor/>
+    <HiddenSearchBar/>
   )
 }
 
