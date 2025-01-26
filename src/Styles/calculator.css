@@ -37,7 +37,7 @@
   }
   
   .calculator span {
-    display: grid;
+    display: flex;/*or grid*/
     width: 100%;
     height: 60px;
     background: #292929;
