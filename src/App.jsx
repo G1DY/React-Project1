@@ -1,9 +1,9 @@
 import React from 'react'
-import HiddenSearchBar from './Components/HiddenSearchBar'
+import Testimonials from './Components/Testimonials'
 
 const App = () => {
   return (
-    <HiddenSearchBar/>
+    <Testimonials/>
   )
 }
 
