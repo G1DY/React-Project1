@@ -1,9 +1,9 @@
 import React from 'react'
-import Meals from './Components/Meals'
+import Calculator from './Components/Calculator'
 
 const App = () => {
   return (
-    <Meals/>
+    <Calculator/>
   )
 }
 
