@@ -1,9 +1,9 @@
 import React from 'react'
-import Calculator from './Components/Calculator'
+import ToggleBackgroundColor from './Components/ToggleBackgroundColor'
 
 const App = () => {
   return (
-    <Calculator/>
+    <ToggleBackgroundColor/>
   )
 }
 
